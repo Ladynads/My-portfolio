@@ -40,3 +40,20 @@ img {
     color: teal;
     height: 70px;
 }
+
+.navbar .flex {
+    justify-content: space-between;
+}
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 40px;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    
+}
